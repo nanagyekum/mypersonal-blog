@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+h3 {
+  font-weight: 100px;
+}
+body {
+  background-color: #ae4252;
+  color: #e39291;
+}
+.navBar a {
+  color: #f1c0a8;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: center;
+}
+.navBar a:visited {
+  color: white;
+}
+.navBar a:hover {
+  color: #d5a68a;
+}
